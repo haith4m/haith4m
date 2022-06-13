@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haith4m
 - 👀 I’m interested in hardware and software engineering
-- 🌱 I’m currently learning unity engine, c# and python
+- 🌱 I’m currently learning unity engine, c# , and full stack software development
 - 💞️ I’m looking to collaborate on devoloping a new kind of social media
 - 📫 How to reach me : haith4mmohammed@gmail.com
 
