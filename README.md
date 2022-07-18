@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haith4m
+- 👋 Hi, I’m @haith4m ,this is where I display my programing projects
 - 👀 I’m interested in hardware and software engineering
 - 🌱 I’m currently learning unity engine, c# , and full stack software development
 - 💞️ I’m looking to collaborate on devoloping a new kind of social media
