@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haith4m ,this is where I display my programing projects
 - 👀 I’m interested in hardware and software engineering
-- 🌱 I’m currentlly web development , javascript + node + react, linux and Python
+- 🌱 I’m currentlly learning web development , javascript + node + react, linux and Python
 - 💞️ I’m looking to collaborate on devoloping an operating system in the future
 - 📫 How to reach me : haith4mmohammed@gmail.com
 
